@@ -2,11 +2,15 @@
 title: ''
 ---
 
+  
+  
+  
+
 Poručík Borůvka zachmuřeně zíral z okna své kanceláře na oprýskané průčelí starého kostela naproti, kde se pod sněhovou čepicí hrbil poťouchlý svatý Sidonius a z nosu mu visel křišťálový střechýlek. Poručíkovi se zdálo, že se mu opět posmívá, jako už jednou, před třemi lety, jenže to bylo na jaře, za vlahé májové noci, a Zuzance bylo teprv sedmnáct. Dnes, v kalném únorovém večeru, měl poručík, obvykle smutný, obzvláštní důvod k zachmuřenosti. Dcera Zuzanka oznámila totiž ráno rodině, asi jako by je seznamovala s rozhodnutím jet na prázdniny k babičce do Kostelce místo k tetě na Šumavu, že melancholický poručík se přibližně za sedm měsíců stane dědečkem, ale nikoli tchánem. Kandidát zeťovství, pravila Zuzanka, je idiot a pitomec, což prý bohužel zjistila až trochu pozdě, ale bohudík ještě včas na to, aby si ho uvázala na krk. Poručík vyvinul značné úsilí, aby vypáčil z dcery pitomcovo jméno. Ztroskotal, neboť se neodvážil uplatnit na Zuzance metody podobné výslechu třetího stupně: měl jakési mlhavé představy o tělesné křehkosti těhotných žen (třebaže v druhém měsíci a třebaže těhotnou ženou byla Zuzanka, studující tělesné výchovy, přebornice Univerzity Karlovy na sto metrů prsa). Konečně po amatérském pokusu zrežírovat scénu, v níž by on sehrál staromódně zneuctěného otce a paní Borůvková zlomenou matku (drama ztroskotalo na jeho velmi moderní lásce k dceři a na ještě modernější věcnosti paní Borůvkové), odešel poručík do práce. Ihned po příchodu přemluvil příslušnici s nádherným drdolem, že je jí nevolno, a donutil ji odejít domů, neboť zřetelné příznaky nejméně osmého měsíce (její strýc, zastupující zesnulého otce, slavný spisovatel Kopanec, byl na rozdíl od kriminalisty opatřen řádným zetěm, mozkovým chirurgem) poručíka toho dne popuzovaly. Pracovní dobu strávil předstíráním běžné činnosti a nyní čekal, až padne. Chmurně přitom přemýšlel o nemravné erotizaci světa, s níž služebně nesouhlasil, a v okamžicích sebeupřímnosti si uvědomoval, že jí sám s chutí, i když spíše jen teoreticky podléhá. Pak se přinutil meditovat o smutném případu své dcery, ale nějak mu nepřipadal smutný. Pohlédl na sádrového světce. Zasažen pohledem jeho poťouchlých očí, přiznal si, že smutný je na případu Zuzanky Borůvkové hlavně fakt, že z mladistvé nerozvážnosti promění svého ještě naprosto zachovalého otce téměř rok před jeho padesátými narozeninami nominálně v dědka. V tom zazvonil telefon a rozčilený hlas řekl: „Prosím vás, mohli byste sem někdo přijet? Tady se stalo – náhlé úmrtí.“
 
 „Kde?“ otázal se poručík Borůvka nerudně. „A kdo volá? A mluvte, prosím vás, česky. Čemu říkáte náhlé úmrtí?“
 
-\* \* \*
+* * *
 
 Vyšlo najevo, že náhlé úmrtí způsobila střelná zbraň malé ráže. Nebožtík se jmenoval Ludvík Arnold, byl to elektroinženýr a zesnul ve svém bytě, sestávajícím z velkého pokoje, malé kuchyně a sprchového koutu, zakrytého španělskou stěnou s obrázky tančících rusálek. Byt byl v domě nad podloubím na Loretánském náměstí, a když poručík dorazil na místo činu, čekali tam na něho tři lidé. Dcera poručíkova přítele, vedoucího n. p. Kniha Obdržálka, která se jmenovala Irena a poručík ji dobře znal, a protože byla stejně stará jako Zuzanka, připravil se na nejhorší; asi třicetiletý muž, jenž se představil jako dr. Petr Bydžovský, klinický psycholog; a konečně mladá žena, jež podle svědectví obou předchozích přišla až těsně před poručíkem; jmenovala se Milena Pelentová a povoláním byla manželkou jakéhosi ing. Rudolfa Pelenta, kolegy zesnulého. Seděla – sama v místnosti s poručíkem – v elegantním ortodoxně secesním křesílku, přímo pod mramorovou kopií řecké sochy (z dávných studií uvízlo poručíkovi v hlavě, že se jmenuje Doryforos) a slzela do batistového kapesníčku. Kriminalista byl zneklidněn. Znepokojoval ho jednak půvab plačící ženy a pak také to, že Doryforův klasicky uměřený pohlavní úd visel jako nevhodný symbol přímo nad pocuchanou platinovou kšticí vyslýchané. V duchu si nastávající děd opět zamoralizoval nad erotizací časů a pomyslel si, že celé to náhlé úmrtí bude zas jen variace na téměř antickou tragédii, jaké vznikávají z lidského sklonu k monopolizaci v oblasti pohlavní. Povrchem vědomí však poslouchal, co má vzlykající kráska na srdci:
 
@@ -20,7 +24,7 @@ Vyšlo najevo, že náhlé úmrtí způsobila střelná zbraň malé ráže. Neb
 
 „Manžel je – byl Ludvův kolega v podniku. Ludva tam nastoupil asi před půl rokem – a s Petrem jsme se seznámili u Ludvy – manžel k Ludvovi chodil strašně rád – on je inženýr, ale zajímá se o kulturu a my nemáme moc přátel, kteří by tyhle věci znali – jenom právě Ludvu. Ludva uměl mluvit strašně hezky o obrazech a o sochách –“ Poručík si uvědomil přítomnost mramorového symbolu, zamračil se. „Petr je starý Ludvův kamarád. To já nevím, odkud se znají. A paní Fehérová? Ta bydlí tady v domě, o poschodí výš – je to překladatelka, myslím z maďarštiny. Obdržálková? Nemám tušení. Zeptejte se jí. Prostě Ludvu odněkud zná –“
 
-\* \* \*
+* * *
 
 Poručík se na to chtěl nejdřív zeptat klinického psychologa. To byl snědý, černovlasý, hladce vyholený muž v módním žlutém svetru, a něco se mu stalo na oku.
 
@@ -48,7 +52,7 @@ Bydžovský sklopil hlavu k nažehleným úzkým nohavicím. Protože byl znač
 
 „Přece Ludva. Jenže Ludva o ni nestál,“ psycholog znovu zkontroloval stav svého odění. „Přesně řečeno, Ludva se nemoh rozhodnout. Ona byla celá žhavá do rozvodu – ale pak začala za Ludvou pálit tamta –“ Bydžovský ukázal hlavou ke kuchyňským dveřím. „Ta ho tu taky našla. Já šel z nemocnice, bylo docela hezky, ne velký mráz, chodím rád pěšky, kvůli pohybu. A jak jdu tady dole pod podloubím – mám byt kousek dál na Pohořelci – Irena vylítne ze vrat a skoro do mě vrazí. A celá se třese a koktá, že Ludvu někdo zavraždil.“
 
-\* \* \*
+* * *
 
 Pak seděla v nepohodlném křesílku dívka. Ta, co ji poručík znal. Měla na sobě zelený minikostým, na hlavě měděné vlasy, stažené do poručíkovi leccos připomínajícího uzlu, a v pobledlém obličeji zelené panenky, zarámované neobvyklou červení. Sotva si sedla, kriminalista – z důvodu jí neznámého – vstal a otočil mramorovou sochu za jejími zády. Nato chvíli přecházel semtam, dívka mlčela a úzkostlivě ho sledovala koutky očí.
 
@@ -72,7 +76,7 @@ Přerušilo ji vrznutí dveří. Mezi veřejemi se objevila dychtivá tvář pra
 
 „Jdi zas na chvíli vedle, Irenko,“ vybídl tedy poručík dívku, a aniž původně chtěl, sledoval její hezké nohy, dobře sledovatelné v minisukni, dokud nezmizela za dveřmi.
 
-\* \* \*
+* * *
 
 Stáli s dr. Seifertem nad fotografiemi. Hleděla z nich hezká, ale mrtvá tvář plavovlasého muže. Nehezky ji ozvláštňoval krvavý otvor ve spánku.
 
@@ -100,7 +104,7 @@ Z kteréhožto omylu ho vzápětí vyvedl praporčík Málek. Opět strčil dyc
 
 Natáhl ruku. Na čistém fialovém kapesníku mu v dlani ležela drobná třpytivá věcička, vykládaná duhovějící perletí.
 
-\* \* \*
+* * *
 
 Tentokrát poručík pochodoval kolem místnosti dobrých pět minut. Chvílemi se zastavoval, prohlížel staré obrazy ve vyřezávaných rámech, které svědčily o sběratelské vášni mrtvého inženýra. Otevřel a zase zavřel sklápěcí půlměsíčnou desku secesního escritoiru, potěžkal skleněnou vázu, obtočenou hadími vlasy stříbrné Medúzy. A přitom všem mlčel, snad přemýšlel. Dívka s měděnými vlasy se už nepokoušela dělat něco ohledně slziček. Kapaly na krátkou zelenou sukni a zanechávaly na ní tmavé kaňky.
 
@@ -150,7 +154,7 @@ Dívka se ovšem nezachovala, jak by odpovídalo poručíkovu obecně už vyhynu
 
 „To tak řikala jedna moje kamarádka ženskejm. Ňáká Zuzka Králová, co se nedávno vdala do Švédska,“ vysvětlovala Irena. „Myslim takovejm ženskejm, jako je Pelentová. Co jim jeden chlap nestačí, víte?“
 
-\* \* \*
+* * *
 
 Dalo by se to říct o téhleté tady? uvažoval poručík o chvíli později. Pod obrazem nahé bakchantky a výbojného zvířete (kriminalista jej mezitím zakryl brokátovým přehozem, neboť si vzpomněl, co o tom kdysi dávno slyšel) seděla nyní hubená žena s fialovým přelivem na šedinách, s podezřele růžovými tvářemi a téměř karmínovými rty. Dosáhla, aspoň se to kriminalistovi zdálo, už dost dávno věku, v němž dříve ženy nosívaly kolem krku sametku, na nohou černé bavlněné punčochy a čas trávily pletením nátepníčků pro dobročinné bazary. Tato stařenka měla však na sobě světlezelené šaty typu mini s výstřihem a v něm na pihovaté pleti starobylou brož, znázorňující dvě nahá těla, muže a ženu, kteří se stříbrnýma ručkama jakoby přetahovali o fialový drahokam. Seděla nohu přes nohu, na nohou silonové punčochy, pod nimiž se krabatila pohoří křečových žil, a fialové střevíce s velikými přezkami. Zápěstí levé ruky měla ozdobené náramkem v podobě hada.
 
@@ -194,7 +198,7 @@ Uhnul zrakem a spatřil alabastrovou sošku boha Herma na vykládaném spinetu.
 
 To už poručík věděl jistě, že stařena ví víc, než říká. Ale nepochopitelný stud mu vzal řeč.
 
-\* \* \*
+* * *
 
 Zeptal se na to černovlasého muže ve žlutém svetru. Muž neklidně poposedl, ale křesílko bylo, jak poručík věděl, velmi nepohodlné.
 
@@ -224,7 +228,7 @@ Potom znechuceně otevřel dveře a zařval:
 
 „Už je tu Pelent?“
 
-\* \* \*
+* * *
 
 Byl. Potom seděl pod obrazem, z něhož při poručíkově zařvání spadl květinový přehoz a kriminalistovi se už nepodařilo včas jej znovu upevnit. Pelent měl zvlněné kaštanové vlasy a pomačkaný obličej. Z límce bílé košile výbojně trčel puntíkovaný motýlek a modře zářil nad bezvadně ušitými šaty ze světlé opalizující látky. Poručík si ničeho nevšiml.
 
@@ -252,7 +256,7 @@ Muž v neónových šatech do třetice zaváhal a váhal dlouho a usilovně. 
 
 „Víte – kdybych ji nebyl několikrát viděl s Bydžovským – víte, že bych ani dobře nemoh říct?“
 
-\* \* \*
+* * *
 
 Sotva elegantní inženýr odešel, podnikl poručík poslední zápas s brokátovým přehozem. Tentokrát se dobrá věc zdařila. Právě když zadoufal, že toho dne bude mít už pokoj od zneklidňujících osob opačného pohlaví, strčil Málek potřetí hlavu mezi dveře a zašeptal:
 
@@ -286,7 +290,7 @@ Ruce na opěrátku se viditelně roztřásly.
 
 „Ne – já –“ a pak se nehmotně krásná vdovička složila přímo do poručíkovy náruče.
 
-\* \* \*
+* * *
 
 Dívce na secesním divanu – tomtéž, co na něm ještě před nedávnem ležel její mrtvý bratr – píchal dr. Seifert nějakou injekci a poručík si znovu uvědomil, jak je bratrovi podobná. Otočil se k dr. Bydžovskému, ukázal mu tubu s bílými prášky a přísně na něho udeřil:
 
@@ -308,7 +312,7 @@ Pod vlivem doktorovy injekce mrtvá procitla a okamžitě pochopila, oč jde.
 
 Poručík nechápal, proč dr. Bydžovský zdůraznil to zájmeno, ani mu nedošlo, proč mu pořád hlavou víří ta Mannova zabavená novela. Zabavená proto, že byla o sourozencích.
 
-\* \* \*
+* * *
 
 Znovu osaměl s vdovou. Byla už tma, na makabrózní tvář vrhala secesní lampa barevná světla. Jakoby z dílny Tiffanyho, pomyslil si poručík, zcela nedávno zabavil Zuzance jiný román od autora, jemuž Zuzanka říkala nějak jako Kápo, třebaže tenhle román nebyl o sourozencích.
 
@@ -316,7 +320,7 @@ Znovu osaměl s vdovou. Byla už tma, na makabrózní tvář vrhala secesní la
 
 Bílá šíje se ladně sklonila k temnému klínu, na němž měkce spočívaly ruce, vytvořené snad secesním malířem. Zlatá korunka z vlasů poručíka oslnila.
 
-\* \* \*
+* * *
 
 Kráčel pak pod plynovými lucernami noční Prahy, lámal si hlavu nad poselstvím z nějaké jemu vzdálené oblasti lidského života, o níž jen něco četl, ne mnoho, a které proto nerozuměl.
 
@@ -324,7 +328,7 @@ Doma vyslechl rozčilenou řeč přítele Obdržálka. Nepodařilo se mu vysvět
 
 Když potom poručík ležel v posteli vedle zcela klidně oddychující budoucí babičky, uviděl, jak za oknem nad prejzovými střechami vychází bílý únorový měsíc a zdrtila ho beznadějná tíže života. Vzpomínal, jak dlouho už ho trýzní v takových chvílích, jako je tahle, a uvědomil si, že od té doby, kdy vstoupil do statisticky patrně poslední třetiny svého života. Usnul. Obklopily ho přeludné stíny. Nehmotně se zhmotnily v dívky v minisukních, v Irenku Obdržálkovou, nyní oprávněně podezřelou z vraždy, v makabrózní vdovu, v příslušnici, teď už v osmém měsíci – v krajině snu to na ní nebylo vidět – v jednu smutnou tanečnici z divadla Odeon – v jeho vlastní dceru Zuzanku – a sevřel ho smutek, neboť si uvědomil, že i pro něho tu končí něco nesmírně krásného, když teď jeho dcera nastupuje tu cestu – života – a proto také smrti – a potom se na slunečném hřišti objevila celá tlupa rozjívených dívek, které mu všechny byly povědomé – ano, učil je kdysi hrát basketbal – a mezi nimi jedna, šedooká, ta potom v zeměpisném kabinetě – něžná dívčí kolínka – v tom kabinetě našel tehdy soukromý detektiv Jaroslav V. Klíma utržený černý podvazek – poručík ve spánku zavřel zoufale oči, aby neviděl na svět svého podivného padesátého roku, v němž přicházející jaro vonělo opět starou, skoro zapomenutou touhou, aby neviděl tento běsnící svět – a zatoužil po postavě ze staré rytiny, po ženě s neviditelnýma nohama, po secesní dámě v dlouhém splývávém rouchu až na zem…
 
-\* \* \*
+* * *
 
 Proto když druhý den odpoledne v Malostranské kavárně zdvihl unavené oči od Málkova hlášení, měl pocit, že je dosud zajatcem snu. Dáma stála proti němu, v elegantním zimním kabátě, ale kabát byl až na zem, splýval v ladných záhybech, byla to dáma ze staré rytiny, secesní dáma, na plavých vlasech modrou čepici, na hezkých rtech hezký úsměv, a velikýma šedivýma očima se dívala přímo na poručíka.
 
@@ -394,7 +398,7 @@ Poručík se zasmál. Pokládal její vyprávění za dobrou mysliveckou latinu,
 
 „Vy mně nevěříte – a to neni vod vás pěkný, pane poručíku,“ pravila zpěvačka vyčítavě, neboť se obávala, že neuvěřil-li poručík historce až sem, ačkoliv až sem byla téměř pravdivá, sotva uvěří jejímu závěru, který si naprosto vymyslela. Neboť nebylo pravda, že za peníze stržené za kožešinovou kouli si koupila minkový kožich, jak se pak poručíkovi pokusila namluvit. Bylo pravda, že požádala jiného amerického Čecha, pana Etri Silbera, jestli by jí, za provizi (tu pan Etri gentlemansky odmítl) kožichy někde nestřelil. Pan Etri, nadšen cennou koulí a nepátraje po původu kožichů (věděl, že dívka zpívá v nočních klubech, a raději se neptal) běžel nejkratší cestou do obchodu svého přítele a krajana pana J. A. Kohna a jakživ nepochopil, proč se pan Kohn nad tím bargainem nejdřív tak nesmírně rozčílil, potom propadl světobolu a nakonec bez smlouvání vysázel sumičku nepřiměřeně vysokou a nasazenou panem Etrim z galantních důvodů, že pan Etri začal litovat svého kavalírství, pokud jde o provizi. Sumička, přes svou výši, na minkový kožich ovšem nestačila, ale poručík během dívčina vyprávění upevnil se ve víře tak ortodoxně, že historku spolkl jako malinu. Jak to šampaňské, které bez velkého dívčina přičinění zmizelo, takže poručík musel objednat nové.
 
-\* \* \*
+* * *
 
 Proto si také na nerozřešený případ z Loretánského náměstí vzpomněl, teprve když do kavárny vstoupil dr. Bydžovský s Lucií Ejemovou.
 
@@ -402,7 +406,7 @@ Proto si také na nerozřešený případ z Loretánského náměstí vzpomněl
 
 Vdovu, přes okázalý (a upřímný) smutek, oděv poručíkem nazvaný superkabát neodolatelně přitáhl. Za chvíli už obě mladé ženy bok po boku nahlížely do módního listu, který zpěvačka vytáhla z kabelky. Přiopilý poručík objednal další šampaňské.
 
-\* \* \*
+* * *
 
 Když se rozloučili, byl poručík téměř namol. Měl sice pocit, že se svými nejlepšími přáteli, doktorem Bydžovským a Lucií Ejemovou, se sblížil za okolností z kriminalistického hlediska ne zcela nezávadných, ale sotva mu zmizeli z očí, volal po dalším šampaňském.
 
@@ -474,7 +478,7 @@ Blondýnka se totiž kratičce zamyslela, vstala a řekla:
 
 „Bylo to s váma moc fajn, pane Borůvka. Ale já už budu muset běžet.“
 
-\* \* \*
+* * *
 
 Někdo zazvonil. Dr. Bydžovský, naslouchající ve starobylém ušáku stereofonní hudbě, se zamračil a vstal. Odešel do předsíně, utáhl si šňůru hedvábného čínského županu, odepnul řetěz na dveřích a otevřel.
 
@@ -554,7 +558,7 @@ A vy, milí čtenáři, jistě už víte, kdo zavraždil Ludvíka Arnolda a pr
 
 * * *
 
-Poručík Borůvka se probudil se strašlivou kocovinou. Opět měl velice nepříjemný pocit, že včera moc mluvil. Pocit se netýkal ani tak služebních tajemství jako obavy, že se mluvením znemožnil před svou znovunalezenou přítelkyní. V osm hodin seděl už u psacího stolu, polykal prášky, zapíjel je kávou a v duchu se rozhodoval napsat důvěrný dopis sestře do Kostelce, jestli by k ní Zuzanka nemohla přijet na kratší návštěvu, asi tak na osm měsíců. Jak jedním uchem poslouchal hlášení praporčíka Málka, úmysl opět zrušil jako příliš romantický. Ráno u snídaně Zuzanka totiž pravila: „To sem zvědavá, jak budu na jaře dělat zápočet ze skoku vysokýho, když sem zbouchnutá!“ Poručík zoufale usoudil, že takový cynik by závětřím otcova rodného města pohrdl. Pak si uvědomil, že i kdyby nepohrdl, poškodil by jeho vlastní dobrou pověst, kterou kdysi v tom starosvětském městečku získal tím, že vyvodil správné, i když ovšem nevyhnutelné důsledky z nečekaných následků svého působení na dívčí škole.
+  
 
 „S tím telefonátem to souhlasí,“ četl praporčík z poznámkového bloku. „Obdržálková skutečně asi v deset hodin dopoledne někam volala a její kolegyně v kanceláři potvrzuje, že se ptala někoho druhého na druhém konci drátu, koho důvěrně oslovovala ‚Ludvíčku‘, praporčík významně pohlédl na poručíka, ten však melancholicky zíral na světce přes ulici, a praporčík tedy pokračoval: „,Ludvíčku‘ ho oslovovala, důvěrně, a chtěla vědět, jestli si u něho nezapomněla ‚to, co jí dal‘. To cituji podle výpovědi svědkyně,“ nahlédl blíže do notesu, „Jany Kolem – Kolemjdoucí,“ trošku se zarazil, pak rázně sklapl notes a pravil: „Tak to by potvrzovalo, co říká Obdržálková. Ovšem mohl to být taky trik. Předem promyšlené alibi, rozumíš, Josef. Předem se zajišťovala pro případ, že vražednou zbraň vystopujem až k ní –“
 
@@ -588,7 +592,7 @@ Nic netušící Milenu Pelentovou zachránil před obávaným rafnutím praporč
 
 „Už jsem tam!“ pravil poručík.
 
-\* \* \*
+* * *
 
 „Žádné přehlídnutí,“ zavrtěl hlavou dr. Plechovec. „Vím to docela určitě. Znám přece dr. Bydžovského. Moc dobře. Vždycky chodí domů pěšky, nanejvýš, to už musí hodně lejt, jede tramvají. Proto mně to uvízlo v hlavě, když jsem ho předevčírem vez k němu na Pohořelec.“
 
@@ -598,7 +602,7 @@ Nic netušící Milenu Pelentovou zachránil před obávaným rafnutím praporč
 
 „Tak vám děkuju,“ pravil poručík Borůvka.
 
-\* \* \*
+* * *
 
 „Ano, jasně lhal, to ano,“ říkal za deset minut potom v kavárně Union, kde jednou dopadl jakousi tanečnici, která však nic zlého neudělala. „Ale motiv, Evo. Motiv! Nemáme nejmenší motiv!“ Zpěvačka mu pohlédla do očí.
 
@@ -662,7 +666,7 @@ Blondýnka rovněž poněkud zvadla, ale přinutila se k jásavě neupřímném
 
 „A přitom byste spíš moh bejt otcem, víte?“ pravila vesele. „A teď běžte, ať vám ten chudák parchant neuteče.“
 
-\* \* \*
+* * *
 
 Dr. Bydžovského zatkli na klinice. Už nezapíral. Zavraždil svého milence ze žárlivosti, protože mezi ně vstoupil pomačkaný ing. Pelent. In eroticis, opakoval si poručík, je všechno možné. Ale pracoval mechanicky, v hlavě mu co chvíli zněla jedna dívčina veselá a – poručík nevěděl, jenom doufal – snad hříšná věta. Nevnímal výslech, zcela jej přenechal vzorně služebnímu Málkovi, a trýznila ho vzpomínka, která se bůhvíproč vynořila z opojných zelených světel ztraceného času. Seděl tehdy celé odpoledne, nesmírně dlouhé odpoledne, na nesmírně osamělé lesní lavičce s jednou kvartánkou, jež vlastnila, o tom byl přesvědčen, nejen nejkrásnější copy s červenýma mašličkama na světě, ale i nejbystřejší mozek. Seděl s ní a bez přestávky rozmlouval o české házené (hrál v brance dorostu S. K. Kostelec, ale jediný sport, který zajímal copatou kvartánku, bylo tančení swingu a procházky v lese; v obojím poručík nevynikal). Rozmlouval a rozmlouval, setmělo se, jarní slunce je oba pokrylo zeleným a rubínovým stínem lesního paloučku a poručík rozmlouval, až se dívka vzdala a prohlásila, že už musí domů, protože jinak by jí táta dal domácí vězení. A tak ji tedy doprovodil domů, neustále rozmlouvaje o české házené. Ztratil tehdy, uvědomoval si trpce, nějakou příležitost. Možná malou, možná velkou, ale jistě hezkou. Možná nenávratnou.
 

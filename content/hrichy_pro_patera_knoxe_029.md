@@ -2,6 +2,10 @@
 title: ''
 ---
 
+  
+  
+  
+
  „Perosím, dámy,“ pravila osobitou výslovností černovláska s důlky ve tvářích a vzhlédla od novin ke dvěma hochům, kteří podobně jako ona seděli na vyšívaných polštářích na podlaze. Byly to francouzské noviny a byli to hoši oblečení v modrobíle pruhované kalhoty, jakým se na Západě říká tights_,_ protože přiléhají k tělu jako slupka přiléhá k jablku. Ale nebylo to na Západě, nýbrž na Malé Straně; pokoj, kde seděli, zdobil malířský stojan s netknutým plátnem, orientální koberečky, červotočiví svatí, jaké v opuštěných kapličkách kradou podnikaví venkované pro valutové turisty, a mystické malby, znázorňující nahé muže, jak podivně propleteni poletují v oblacích. Místnost tajemně ozařovala měděná lampa se stínítkem perforovaným do podoby čínského draka a uprostřed pokoje ve dvou rokokových křeslech sražených k sobě tak, že vzniklo něco na způsob bohatě vyřezávané kolébky, spinkalo v pěně bleděmodrého krajkoví růžové děťátko se zlatými vlásky.
 
 „Perosím, dámy,“ pravila tedy dívka, podala noviny, které ten den přivezla letadlem z Paříže, oběma hochům a hoši jako jeden muž otevřeli ústa nad velikou fotografií téže dívky s dolíčky na první straně a vydechli: „Ó! No né! Zuzáne!“
@@ -92,7 +96,7 @@ Pozorný čtenář ví už přirozeně všechno, a odpustil i hříšek – p
 
 * * *
 
-„No byla to peřirozeně milenka Chladnýho Jeana. Jedna ze dvou, co se řízenim osudu sešly na tom Evoušovým dámskym dýchánku v Neuilly,“ pravila potom Zuzán. „Jedna byla Joyce, o existenci tý druhý nevěděla, a doplatila na ten nedostatek praktickýho vzdělání. Druhá, co Joyce propíchla ice jéerpickem, se to na ni ten den dověděla, a jak se zlískala, přišlo jí to líto, no, a teď sedí. S polehčujícíma okolnostma bude ještě deset let.“
+  
 
 „Ale kerá? Kerá to byla?“ téměř vykřikl Pavla. „Kdo se v tom má vyznat? Dyť vás tam bylo samejch ženskejch, že jsem vás ještě nestačil spočítat,“ a nyní začal, na prstech: „Evouš, Laura, Lucy, ty, Mireille, Ginette, Danielle, Louise –“
 
@@ -102,15 +106,11 @@ Pozorný čtenář ví už přirozeně všechno, a odpustil i hříšek – p
 
 „Holmes já taky nejsem,“ řekla Zuzán, „a nikdy jsem nebyla. A von ani nikdo nemusí bejt, perotože je to jasný jak facinka.“ A Zuzán vstala, přistoupila k malířskému stojanu, a uhlem napsala na neposkvrněné plátno následující přehled, jejž Pavla později překryl olejovou malbou propletených mužských těl, otáčejících se kolem neónového měsíce:
 
-Den předtím: Evouš, já, Laura, Ginette, Danielle
-
-V Neuilly nejdřív: Evouš, já, Ginette, Louise, Lucy
-
-Potom: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle
-
-Nakonec: Já, Evouš, Louise, Ginette, Lucy, Laura, Danielle, Mireille.
-
-Pak Zuzán pohlédla na oba hochy tázavě, ale hoši nebyli příliš nadáni schopností logické dedukce, jež se ostatně objevuje spíše u mužů. Zapálila si tedy cigaretu, vyfoukla kouř a dolíčky ve tvářích na chvilku zahalil průsvitný stín. „Louise a Lucy,“ pravila, „který nebyly den předtím u Joyce, neslyšely, jak vypadá Evoušův milej. Laura a Danielle zase slyšely popis Evoušovýho milce a Chladnýho Jeana znaly, ale neslyšely to vo tom negramotnym milostnym psaníčku. A Mireille neslyšela z těchhle všech informací vůbec nic. A teďka: v úvahu pro autorství toho psaníčka plnýho chyb proti francouzský gramatice přicházely tři – když pominu sebe, ponivač já byla v Paříži poperve v životě a teprve dva dni, takže bych při nejlepší vůli Chladnýho Jeana zobnout nestačila: Mireille, ta byla venkovský trdlo, Evouš jako Češka a Joyce jako Angličanka.“ Zuzán vyňala z kabely dudlík a vrazila jej Pernille do růžové pusinky.
+  
+  
+  
+  
+  
 
 „Zuzáne, tak už nás neterap!“ zakňoural Pavla a nervózně zadupal.
 
@@ -118,15 +118,11 @@ Pak Zuzán pohlédla na oba hochy tázavě, ale hoši nebyli příliš nadáni s
 
 „Vrahem byla ta, co znala všechny ty informace: tu, co jsme slyšely den předtím u Joyce, tu, co nám řekla Louise, než přišly Laura a Danielle, a tu, co nám svěřila Laura, než přilítla s brekem Mireille. A taky zároveň která věděla, kdo je Mireillinej milenec. Perostě, tahleta,“ a malířským uhlem dala do rámečku jedno jméno, které se vyskytovalo na všech seznamech:
 
-Den předtím: Evouš, já, Laura, GINETTE, Danielle
-
-V Neuilly nejdřív: Evouš, já, GINETTE, Louise, Lucy
-
-Potom: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle
-
-Nakonec: Já, Evouš, Louise, GINETTE, Lucy, Laura, Danielle, Mireille.
-
-„Ginette to slyšela všecko,“ řekla potom. „A jediná znala Mireillinýho milence, takže věděla, že ta to neni. Vydedukovala si, úplně logicky, že je to Joyce, ponivač jako Angličanka dělá ve francouzštině chyby a bydlí v Neuilly. A že Evouš to není, ponivač Evoušovej Jean nemá voči jak nebe, ale spíš jako čert.“
+  
+  
+  
+  
+  
 
 Rozhostilo se ticho, do něhož opět jazykem kojenců začala volat Pernille. Zuzán se podívala na hodiny.
 

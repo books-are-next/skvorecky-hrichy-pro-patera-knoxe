@@ -2,6 +2,10 @@
 title: ''
 ---
 
+  
+  
+  
+
 Mr. Right, dospěv v žlutém taxíku velikými oklikami na molo Cunard Line, usoudil, že se definitivně zbavil paní Deborah Bellové, před níž právě prchal do Evropy. Nebyla to jeho žena, pouze milenka; a jako by to ještě nestačilo, byla to navíc vdavekchtivá vdova. Ani na tom však nebylo dost: Deborah Bellová měla pětiletého syna, a ten se nápadně podobal Mr. Rightovi. Mr. Right a paní Bellová se seznámili před šesti lety, ještě za života pana Bella. Od chvíle, kdy tento zámožný výrobce krabic před rokem zesnul, začal se Mr. Righta zmocňovat postupně sílící neklid. Vyvrcholil toho zimního dne panickou jízdou z Páté avenue přes Bronx a Long Island směrem do manhattanské West Side, kde taxík konečně stanul na molu společnosti Cunard Line. Cestující, připraveni k nástupu na zaoceánskou paroloď Queen Elisabeth, tam právě podupávali v mrazivém odpoledni newyorské zimy a Mr. Right se k nim spokojeně připojil. Paní Bellovou spatřil naposled kdesi poblíž Coney Island. Vykláněla se v nádherném minkovém kožiše ze zelené drožky a pátravě se rozhlížela, naštěstí opačným směrem. Nato definitivně zmizela v babylónu skalního města zvaného New York a Mr. Right si při té vzpomínce zhluboka oddechl. A jak už to na této cestě všeho těla bývá, sotva si oddechl, upoutal jeho pozornost jiný, stejně nádherný minkový kožich a v něm jiná žena, podstatně nádhernější nežli paní Bellová. Mr. Right vůbec nebyl proti ženám, jenom proti ženění. Obhlédl ji tedy znalým okem a pohotově zaujal výchozí pozici k útoku.
 
 Jeho – na Manhattanu oblíbený – sametově hnědý zrak se nehybně upřel na to, co koukalo z vysokého límce minkového kožichu: Mr. Right se díky své dost nákladné náklonnosti v takových věcech vyznal a odhadl kožich na nejmíň 6000 dolarů. Byl to mrazem trochu zčervenalý, dobře utvářený nos, kulatý slovanský obličej s velikýma, široko od sebe posazenýma šedivýma očima, husté světlé kadeře a dole štíhlé, podle jakéhokoli vkusu velmi pěkné nohy v aligátořích střevíčcích. Znalý Mr. Right to vše odhadl na nejmíň 500 dolarů týdenní apanáže, ale nezaváhal.
@@ -14,7 +18,7 @@ Vzápětí útok ztroskotal na minkovém kožiše. Nikoli na tom, který zahalov
 
 Ústa neznámé se opět ponořila do minkového límce a šedivé oči pohlédly k nástupním můstkům. Právě je spouštěli. Mladá žena zamířila k vchodu do turistické třídy. To už Mr. Right v zajetí paní Bellové neviděl. Ostatně přítomnost minkového kožichu v turistické třídě se zcela příčila jeho rozsáhlým znalostem.
 
-\* \* \*
+* * *
 
 Číšník nesoucí na podnose psaní přistoupil ke stolu v jídelně turistické třídy, pohlédl na dopis, potom na jmenovku na stole, ještě jednou na dopis na podnose a posléze na pána před jmenovkou.
 
@@ -128,7 +132,7 @@ Neboť pan Kozyma vyňal pravici, schovanou dosud v dlani levé ruky, a natáh
 
 Opět nedořekla, co měla na mysli, neboť do jídelny vstoupil lodní důstojník a silným hlasem oznámil, že plavecký bazén turistické třídy právě zahájil provoz.
 
-\* \* \*
+* * *
 
 Sešly se tam – obě mladé ženy – den nato před obědem. Plavovláska byla dychtivá všech požitků, k nimž ji opravňoval lodní lístek turistické třídy, a nakonec přemluvila svou zdrženlivější společnici, s níž sdílela nejen stůl, ale i kajutu.
 
@@ -142,13 +146,13 @@ Plavovláska rekreačně doplula k obrátce, provedla obrat a s hlavou opatrn
 
 Když ji plavovláska s pomocí divokého muže – byl to, vyšlo najevo, pan Kozyma – vytáhla na břeh, byla ve tváři zelená a ležela téměř v bezvědomí. Dopravili ji do kajuty, kde jí lodní lékař, nejprve ji pečlivě a zevrubně prohlédnuv, dal injekci pro spaní, takže večer byla už zase jako rybička.
 
-\* \* \*
+* * *
 
 Ale do jídelny se nedostavila. Do jídelny se toho dne dostavilo vůbec málo pasažérů. Asi dvě hodiny před obědem vjel parník do škaredé zimní bouřky, a tak místo bifteků polykala většina cestujících prášky proti mořské nemoci.
 
 Kromě několika Atlantikem ostřílených anglických starých panen, tlustého muže, jenž si, nedbaje bouře, zdatně vynahrazoval ranní plaveckou kúru a dvou pobledlých číšníků, nebyl v jídelně nikdo. V poslední chvíli přišla ještě rovněž pobledlá šedooká dívka, neboť ta se nehodlala vzdát žádného požitku, k němuž ji opravňoval lodní lístek turistické třídy. Protože číšníci v důvěře v léčivé účinky čerstvého vzduchu otevřeli v jídelně kulatá okna dokořán, byla tam zima a dívka seděla v minkovém kožiše.
 
-\* \* \*
+* * *
 
 Mr. Rightovi se nakonec podařilo prolomit sevření a přeběhnout po můstku první třídy, právě když se začal odpoutávat od mola. Uklidněn zabýval se pak pět minut pokryteckým máváním za vzdalující se paní Deborah Bellovou a svým zmenšujícím se zmenšeným dvojníkem. Potom je, i s babylónem na březích Hudsonu, pohltila mlha. Mr. Right seběhl rychle do lodního baru, posílil se dvojitým bourbonem, a aniž si oddechl, počal systematicky pátrat po šedooké mladé ženě v minkovém kožiše.
 
@@ -196,7 +200,7 @@ Mr. Right, ač zkušený, přeslechl ironii, nebo ji snad považoval za slovansk
 
 Mr. Right, pořád nezdolán, sebral minkový kožich a beze spěchu se vydal do haly k toaletám.
 
-\* \* \*
+* * *
 
 Když plavovláska před rokem plula po Atlantiku opačným směrem, snila o hezkých a zámožných mužích v zemi za oceánem. Sny se jí poměrně hojně realizovaly, bohužel jinak, než si představovala. Nyní jí z nich zbýval pouze ten minkový kožich. Proto když vyšla do haly, už opět barově bledá, a spatřila toho evidentně zadaného pána (dobře si všimla druhého minkového kožichu na manhattanském molu) s jejím kožichem (od jiného pána) přes ruku, byla pevně rozhodnuta sen už žádným způsobem nerealizovat. Mořská nemoc a blížící se břehy Evropy v ní však rozhodnutí poněkud oslabily, a skotská whisky – ale ta docela speciální, dvaatřicet dolarů láhev, kterou Mr. Right v baru první třídy objednal a znalecky (Mr. Right rozuměl takovým efektům) blondýnce předvedl, jak na stěnách sklenice zůstává po ušlechtilém nápoji slaboučký film – ten nápoj, jenž ničí žal a dobrá předsevzetí, plavovlásku osudově ovlivnila v pocitech vůči zadanému Mr. Rightovi. Pomyslela si jenom na sebeomluvu, že i zadaní lidé se koneckonců rozcházejí, a přijala pozvání k večeři.
 
@@ -286,7 +290,7 @@ Láhev burgundského cinkla o křišťál. Světácký Mr. Right se zarazil.
 
 Dívka v opelichaném flitru odstrčila talíř a řekla: „Mně to nechutná.“
 
-\* \* \*
+* * *
 
 Vypadalo to, že svoje původní, ne úplně mravné úmysly Mr. Right pro ten večer odloží. Nebylo pochyb, že někdejší singapurský zabiják a pan Kozyma jsou jedna a táž osoba. Shoda nejméně čtyř znaků – chybějícího prstu, jizvy na břiše, místa a doby – by v sebelegalističtější společnosti postačila k vydání zatykače. Mr. Right také cestou z jídelny první do jídelny třetí třídy opakoval, že nic jiného než trestní stíhání nemá v úmyslu.
 
@@ -316,7 +320,7 @@ Abigail položila knihu na přikrývku.
 
 „Asi jo. Tak dobrou noc.“ Plavovláska mrkla do zrcadla, načechrala si ofinu a vypadla.
 
-\* \* \*
+* * *
 
 Prožila pak nejdřív (kratičký) romantický večer na promenádní palubě (byl tam příliš velký mráz a vítr) a potom (také bohužel krátký, ale zato slibný) večírek v baru první třídy. Mr. Right použil všech taktických i strategických triků své dlouhé a úspěšné válečnické kariéry a dal jí brzy zcela zapomenout na rozhodnutí žádný sen už nerealizovat. Prováděl právě závěrečný obchvat, po němž očekával bezpodmínečnou kapitulaci, když vtom ho stihla nemilá věc. Požil zkaženou ústřici. Jeho žlučník, ačkoliv před bojem preventivně zajištěný prášky, přemohl prevenci a vzbouřil se s takovou razancí, že zkušený Mr. Right byl nucen s trapnými omluvami odplížit se do svého nevyužitého apartmá. Plavovlásku doprovodil zpět do turistické třídy velmi přepodplacený pikolík.
 
@@ -324,7 +328,7 @@ Trochu ji to otrávilo. Utěšila se však, že loď popluje oceánem ještě dv
 
 Když v půl dvanácté zapnula náramkové hodinky okolo pelesti horního lůžka a v zatím nevyužitém svůdnickém pyžamku se vydrápala nahoru, neměla tušení, že tentokrát ji před hříchem ochrání další, ještě mnohem nemilejší věc, jež stihne zkušeného Mr. Righta.
 
-\* \* \*
+* * *
 
 K snídani se dostavila pobledlá slečna Abigail, dorůžova vyspalá plavovláska a plukovník Sally se splihlým knírem a nápadnými pytlíky pod očima.
 
@@ -334,7 +338,7 @@ Pan Kozyma se u snídaně neobjevil. Plukovníka to udivilo:
 
 „Kde ten člověk je? Když jsem vstával, v kajutě už nebyl. Večer – well, nevím, byl-li tam večer. Vrátil jsem se, popravdě řečeno, z herny až za svítání a byl jsem, s prominutím, poněkud podroušený,“ zachechtal se. „On spí na horním kavalci. Ráno jsem si ho nevšiml.“
 
-\* \* \*
+* * *
 
 Odpoledne strávila plavovláska bloumáním po palubě turistické třídy. Pak si prohlížela časopisy v lodní knihovně a nakonec se odhodlala utratit dva dolary za cocktail White Lady v turistickém baru. Ale všechno to čekání nemělo výsledek, Mr. Righta patrně dosud poutal žlučník na lůžko.
 
@@ -380,7 +384,7 @@ Právě jimi vstoupila mladá žena v širokých kalhotách s nadpřirozenými
 
 Zkušený Mr. Right okamžitě upřel sametově hnědý zrak do růžových brejlí.
 
-\* \* \*
+* * *
 
 Světlovláska zatím dorazila do své kajuty – byla prázdná – a zdrceně usedla na kufr proti kavalcům. Naplnil ji pocit naprosté beznaděje a lítostivě se zamyslela nad slibným Mr. Rightem a nad tou strašnou věcí, kterou, předstíraje žlučníkový záchvat, učinil navzdory svému slibu. Žádný soud. Vražda za vraždu. Zákon uchopený velmi energicky do vlastních rukou.
 
@@ -398,7 +402,7 @@ Nyní už víte, kdo zavraždil pana Kozymu a co ho k tomu vedlo. A je vám j
 
 * * *
 
-„Oho!“ zvolal plukovník. „Kam tak zhurta, milá slečno Adamová? Přišel jsem vás pozvat na malou partii bridže, hrajete-li.“
+  
 
 „Nehraju. Děkuju vám!“ odsekla dívka a opatrně si sáhla prstem na nos. Na prstě se začervenala kapička krve. Plavovlásku to namíchlo. „Děkuju vám, Mr. Silly!“ pravila, otočila se na podpatku a zabouchla dveře. Plukovník podrážděně pokrčil rameny a rázně odmašíroval směrem ke kuřárně.
 
@@ -422,7 +426,7 @@ Chvíli jej ještě masírovala cold creamem, nepomohlo to. Nechala toho.
 
 Koneckonců, nos nerozhoduje o lásce.
 
-\* \* \*
+* * *
 
 Vyběhla na promenádní palubu. Tam u zábradlí stála slečna Wongová s velikýma, černýma, široko od sebe posazenýma očima a hleděla na oceán.
 

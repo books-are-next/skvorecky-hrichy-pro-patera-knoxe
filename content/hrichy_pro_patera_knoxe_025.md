@@ -6,19 +6,19 @@ Nojo, povídám nad tím plánkem. Ale včera dopoledne byla přece Ann na simul
 
 Než přišel, pročenichala jsem Andulin pokoj, co o něm Markusek mluvil jako o místě činu proto, že odtamtud Andulu asi unesli. V rohu stála nerozestlaná úzká postýlka, u okna, co jim bylo vidět na eukalyptovej les, širokánskej pracovní stůl, na něm hromady a hromady lejster, popsanejch pečlivou rukou, a samý číslice: číslice, na jaký jsem se matně pamatovala z biskupáku, a který pro mě, to jsem si pamatovala mnohem jasnějc, vlastně úplně spolehlivě, už tenkrát byly asi tak srozumitelný jako čínská abeceda, třebas:
 
-![13](./resources/3.jpg)  
+* * *
 
 na jednom papíře, nebo zas na druhým:
 
-![14](./resources/4.jpg)  
+* * *
 
 a za tim nějaký složitý výpočty a na konci nesrozumitelná kresbička, jaký ale, to jsem si pamatovala, kreslil melancholickej páter Šilhán, S. J., křídou na tabuli:
 
-![15](./resources/5.jpg)  
+* * *
 
 a tak dále,
 
-![16](./resources/6.jpg)  
+* * *
 
 a tak podobně, mě páter Šilhán, S. J., svejma melancholickejma očima u tabule vždycky tak ztrémoval, že z matiky si pamatuju akorát a2 + b2 = c2, a to nevím, co to je.
 
@@ -56,7 +56,7 @@ Pro slepičí kvoč, řeknu si v duchu, poněvač v mozkovně mi opět cvakne,
 
 Vrazím teda s touto hypotézou v mozečku do obejváku, kde Ebenezer dosud klečí na modlitbách a Markusek ho vyrušuje tím, že mu vnucuje pomoc policie. No jasně. To by znamenalo, že ani Hroznýš, ani Shad nás za nohu netahají, z prostýho důvodu, že uražená Anka nebrala ne nesignály, nýbrž naopak signály, pokud se to tak celý záporně dá říct při současnym zachování srozumitelnosti, a běžím nahoru do Andulinýho budoárku a tam se vrhnu rovnou na její popsaný lejstra. A hledám a hledám to milostný psaníčko, co jí ho Hroznýš, jak se dobře pamatuju, večer před zmiznutím vsunul do ruky a utek do hvězdnatý noci, ale nikde nic. Všude samý:
 
- ![17](./resources/7.jpg)
+* * *
 
 a podobný, pro detektiva totálně nudný zajímavosti, jinak nic.
 
@@ -80,7 +80,7 @@ Ovšem nehádat. V oblasti matematiky se to obzvlášť nehodí.
 
 * * *
 
-Eště s tim počkej, pravím Markuskovi, a podám mu ten nesrozumitelně vyčíslenej líbesbrífek. A mrkni na to. Co ti to řiká?
+  
 
 Markusek se mrkne, popovytáhne obočí, zamyslí se, příklad ho vcucne do matiky, takže na mě zapomene, sedne si na Anduliný křesílko, zmocní se Anduliný tužtičky a kontroluje to po Andule jak domácí úkol.
 
@@ -102,11 +102,11 @@ Solution! vydechnu. A sou?
 
 No počkej, praví Markusek. Ještě jsem neřek, jaký dvě čísla. Ponivač čísel, který můžou bejt řešením, je třeba víc. A teprve všechny dohromady jsou v týhle speciální aplikaci týhle zajímavý rovnice řešením, který my dva tady dnes hledáme. Tak hledej, pravím, poněvač to už mě posedla ne zvědavost, já vůbec nejsem zvědavá, ale zájem, a Markusák profesoruje: Máme tu napsáno: Graficky vyjádřeno. Ne názorně? skočím mu do profesorování, on se zarazí. No taky názorně. Ale graficky, chápeš? Kývnu, aby mě vážně nezačal pokládat za blběnku, a on praví. Teda se uchýlíme ke způsobu, který názorně znázorní všechna řešení naší rovnice, v jejichž souhrnu je naše dnešní řešení. Za tím účelem nakreslíme dvě přímky, vodorovnou a svislou – a Markusík nakreslí:
 
-![18](./resources/8.jpg)  
+* * *
 
 Říká se jim osy, jestli si ještě vzpomínáš z hodin elementární geometrie, praví. Z hodin elementární geometrie si sice vzpomínám vskutku pouze na melancholické oči pátera Šilhana, S. J., avšak kývnu. Na tyto osy, pokračuje Markusek, naneseme stejně hustě stupnice délky tak, aby nula na obou osách ležela v jejich průsečíku zde, a položí prst na místo, o němž si teda zase náhodou pamatuju, že se mu říká průsečík. Přitom, praví Marcus, stupnici na svislé ose očíslujeme od průsečíku směrem nahoru a dolů, jako na teploměru, Celsiově myslím, tedy 1, 2, 3 a tak dále a –1, –2, –3 a taky tak dále. Vodorovnou osu očíslujeme tak, aby čísla od průsečíku napravo byla plus, neboli kladná, a čísla nalevo mínus, neboli záporná. Kdybych to takhle vyprávěl svým posluchačům, sice by si mysleli, že si je pletu s obecnou školou, ale – Děkuju, pravím. Z toho soudím, že vysoký školy v USA mají vysokou úroveň. U nás se na obecný učí jen až k odčítání. Proto tady asi taky tolik dětí vyjde ze školy předčasně, a sou z nich pak ty kluci, co se ani neuměj podepsat. Nic ve zlym, praví Markusek, a dávej pozor; do naší rovnice musíme dosadit dvě různý čísla, jedno za x, jedno za y. Dohodněme se, že každé takové dvojici čísel – ponivač jich můžeme dosadit celou řadu – bude odpovídat bod, neboli puntík, v rovině, vykládá, a poněvač už začínám zase téměř ne zcela chápat a on to na mně vidí, veme tužku a praví: Na vodorovné ose najdeme číslo dosazené za x a vedeme jím svislou přímku. Na svislé ose najdeme číslo dosazené za y a vedeme jím přímku vodorovnou. V průsečíku obou přímek leží onen bod, neboli puntík. Tak si třeba za x dosaďme dvě a za y pro změnu třeba mínus tři. A Marcus tužtičkou vyrobí následující obrázek.
 
-![19](./resources/9.jpg)  
+* * *
 
 Jednomu řešení, pokračuje Markusoun, odpovídá jeden bod. Jelikož jsem ti však řekl, hlavinko zmáčknutá – řekla jsem mu to o původu tý vrásky, když si jí jednou všim – že naše rovnička má celou řadu řešení, a teprve z nich dohromady vychází nám potřebné Řešení s velkým Ř, bude tomu odpovídat celá řada bodů, a ty dohromady budou tvořit graf, názorně znázorňující naši rovnici. Dřív ovšem, než tenhle graf nakreslíme, musíme se naučit vyčíslit výraz – teda tu míchanici x a y a různejch čísel, čar a znamínek na levý straně naší rovnice. Co je to tohle, a Markous napíše |x|, to asi vědět nebudeš, co, makovinko milovaná? Budu, pravím, když mi to řekneš. Proč bych neřek? otáže se Markusek, levou rukou mi rozepne knoflík na blůze, je přes ni třepnut, tak ho zas sám od sebe zapne a pravou čmárá a přitom mluví: Taková věc jako |x| se čte ‚absolutní hodnota z x‘ a je to číslo, které odpovídá přirozené představě velikosti, bez ohledu na znamínko. Tedy, řečeno pro blbounky a blběnky, absolutní hodnota kladného čísla je to samé číslo, absolutní hodnota nuly je nula, absolutní hodnota záporného čísla je kladné číslo, jež dostaneme pouhou změnou znamínka. Pro úplné subblběnky tedy názorně: například |5| = 5, neboli absolutní hodnota pěti je pět, anebo |–7| = 7, čili absolutní hodnota mínus sedmi je sedm. Takže můžeme začít, povídá a podá mi tužku, abych jako počítala. Nech si ty fóry, pravím já a tužku odmítnu. Ach, ženy! prohlásí Markusek. Dle antropologů mají mozek naprosto stejně téměř tak veliký jako muži – Hele! řeknu. No nic, praví honem Markusek. Tak teda: povšimněte si pozorně naší rovnice, Evi Adamová, a Markuselák napíše znova:
 
@@ -114,15 +114,15 @@ Jednomu řešení, pokračuje Markusoun, odpovídá jeden bod. Jelikož jsem ti 
 
 Především, pokud jsme vše pozorně prohlédli, vykládá, všimli jsme si, že nikde tu nenajdeme x nebo y samo o sobě, nýbrž všude jen |x| nebo |y|. Tato okolnost má jeden příjemný, tedy matematický důsledek. Jestliže například jedním řešením naší rovnice bude mínus tři a pět, a Markusoun napíše \[-3; 5\], budou řešením rovněž dvojice \[3; 5\], \[-3; –5\] a \[3; –5\]. A proč? Mlčím, neb jsem dutá, a Markuselák odpoví sám sobě: Protože na absolutní hodnotě se znaménko nepozná! Takže, kebulko, doufám, chápeš, že u každého bodu neboli puntíku budou řešením vlastně čtyři body a ty dostaneme pouhými změnami znaménka, neboli méně učeně řečeno zrcadlením podle os. Vezměme si náš původní příklad a nakresleme:
 
-![20](./resources/20.jpg)  
+* * *
 
 Jestliže mi nyní laskavě půjčíš zrcátko, řekl Markusek, vytáhnu tedy žádané z kapsičky na mini, rychle opucuju o zadánek a podám, a Markusek přiloží přesně na svislou osu a vznikne zrcadlením obrázek pro nechápavé:
 
-![21](./resources/21.jpg)  
+* * *
 
 Nyní Marcus tužkou vyšrafuje pravou horní čtvrtinu obrázku
 
-![22](./resources/2.jpg)  
+* * *
 
 a praví: To nám ulehčí práci, neboť stačí například najít jen tu část grafu, která odpovídá kladným číslicím, nebo nule, celkem řečeno poněkud učeněji, která odpovídá nezáporným číslicím, a která tedy leží v mnou vyšrafované oblasti, a pak ji zrcadlením přenést do zbývajících tří čtvrtin.
 
@@ -146,15 +146,15 @@ Mě už to nebaví, povídám. Pojď radši přemejšlet, kdo ti unes neteřinku
 
 A příslušná přímka vypadá, jak chápeš – a já málem skoro téměř chápu – takhle:
 
-![23](./resources/3.jpg)  
+* * *
 
 My – a Markuseles vztyčí poučně prst – se však omezíme pouze na silně vytaženou úsečku: úsečka je co? Useknutá přímka, pravím pohotově, na dvou stranách useknutá, teda. Ano, Marcus silně vytáhne úsečku, useknutou oběma osama. A proč se na ni omezíme? Protože, praví tentokráte – pro mé mlčení – sám, protože odpovídá nezáporným hodnotám, jak jsme chtěli. Zbytek přímky splňuje sice rovnici 4x + 2y – 4 = 0, ale nesplňuje rovnici 4 |x| + 2 |y| – 4 = 0. To už, hloupěnko, asi nechápeš, ale ono je to stejně pro naše řešení irelevantní. Jsem hloupěnka, pravím, aspoň co se matiky týče, a tak pro mě vůbec žádný řešení není v dohledu. Hned bude, ušklíbne se Markusilík. Ještě nám ale zbývá ta druhá rovnice, (y – 1) + y – 1 + x = 0. Ta ti otevře – a otevřou se dveře a kupec švýcarský vejde dovnitř a otáže se: Kdy můžeme čekat příchod policie? Uvažoval jsem, a došel jsem k názoru, nebylo-li by přece jen lépe – Klid, švagře, osloví ho Markusek. Já jsem chlupatý ještě nevolal, poněvadž tady slečna Adamová je agentka FBI, povídá, kouknu na něj překvapeně, a vzápětí pochopím. To v tom pajzlu totiž, švagře, to je jenom naoko, pokračuje Markusoun. Slečna Adamová není žádná noční bludička, nebo eventuálně něco ještě horšího. Je to patrně nejschopnější agentka federálního homicide bureau a v tom pajzlu je kvůli jedný žhavý stopě na jednoho slavnýho mezinárodního gangstera, jehož jméno zamlčím kvůli utajení, a tvář kupce švýcarského se mění téměř ve směru lidskosti a jeho vybledlé oko o mě poprvé po drahném čase opět zavadí. Jeden významnej hack-writer, balamutí kupce švýcarského Markusek dál, velice významný námezdný spisovatel už o ní píše knihu a já se vsadím, Markusík vloží ruku na švagrovo rameno, že případ Anny Bradstreetový bude v té knize jednou nikoli z nejbezvýznamnějších kapitol… Mám tomu rozumět? začne kupec švýcarský málem dojatě, a Markusek praví: Ano, slečna seržant Adamová už objasnila případ toho únosu, a než slunce zapadne, švagře, znovu obejmeš svou dceru, pokud s potomkem ženského pohlaví takové věci vůbec děláš, praví Marcus, ale kupec švýcarský v otcovském žalu nepochopí narážku. Zbývá dokončit malý výpočet, řekne Markusoun a vezme do ruky tužku. Kde jsme to zůstali? U tý rovnice, co už jí nerozumim, povídám. A začals právě o tý druhý (y – 1) + y – 1 + x = 0. Aha, vzpomene si Marcus. Zde si tedy povšimněme chování výrazu (y – 1) + y – 1. Ten, jak je zcela evidentní, se rovná nule, když (y – 1) je záporné nebo nula, a je roven číslu 2 (y – 1), a tedy je kladný, je-li y – 1 kladné. Strašně si namůžu mozek, všimnu si, že oči kupce švýcarského na mně spočívají už málem s obdivem a téměř omlouvají mou minisukni, považujíce ji patrně za služební přestrojení. A strašně na mozku namožená, ale úspěšně, pravím: Rozumím. Jsem skoro nakloněn ne úplně ti naprosto věřit, zaopičí se Markusíček po mém oblíbeném úsloví. Nicméně pokračujme. Výraz (y – 1) + y – 1 je tudíž vždy nezáporný, nule se rovná jen pro (y – 1) záporné nebo nulové. Když jsme začali kreslit náš graf, a Markusek ukáže na obrázek
 
-![24](./resources/4.jpg)  
+* * *
 
 a pokračuje, omezili jsme se na x a rovněž na y nezáporná; součet (y – l) + y – l + x bude se tedy, za našeho omezení, rovnat nule jen tehdy, bude-li současně x rovno nule, bude-li y nezáporné a (y – 1) záporné nebo nulové. Graficky znázorněno může pro naši rovnici y být něco mezi nulou a jednotkou, přičemž může nabývat i extrémních hodnot. Jakých? otážu se a Markusek honem: Těchto extrémních hodnot, to jest nuly a jedničky. A nyní, praví slavnostně a vezme čistý list, nyní jsme již bezprostředně před řešením, jež pro nás bude Řešením s velkým Ř. Uchopí špačka, okousanýho zřejmě Andulou v nějakým exponenciálním orgasmu, praví a současně kreslí: Příslušný graf téhle rovnice je tedy svislá úsečka, pnoucí se po ose y, s krajními body \[0; 0\] a \[0; 1\]. Tedy tahle:
 
-![25](./resources/5.jpg)  
+* * *
 
 Takže, protože všechny ostatní podezřelé tahle přímka vylučuje, ušklíbne se Markous pekelně, půjdeme pro kolegu Dalyho, ne?
 
@@ -168,17 +168,17 @@ Kupec švýcarský za mnou zabručí, veme okousanýho špačka, odkašle si, a�
 
 můžeme je vkreslit ne do dvou, ale do jediného grafu – graficky tedy znázorněno bude to vyhlížet přibližně takto:
 
-![26](./resources/6.jpg)  
+* * *
 
 Pak se kupec švýcarský spokojeně zadívá na to, co nakreslil, a nemylí-li mě odhad Markuselákovy fyziognomie, a ten mě málokdy mýlí a tentokrát určitě ne, převezme výklad s ďábelsky chlípným úsměvem: Jestli pamatuješ, Evíku, na začátku jsem ti řek, že fakt čtverého řešení rovnice nám umožní celou čtveřici dostat nikoli pracným kreslením, nýbrž prostým zrcadlením podle os, a protože čtvrtku grafu už nám švagr nakreslil, tedy postačí už pouze zrcadlení. Podle osy x a současně podle osy y. Puč mi, prosim tě, eště jednou to zrcátko. Což učiním, načež Markuselák praselák ho postaví kolmo na graf kupce švýcarského podél osy ypsilon, a to tak, že roh mýho zrcátka je přesně v průsečíku os ix a ypsilon. Co nakreslil kupec napravo od osy ypsilon, zrcadlí se nyní i nalevo. Načež se Markuseles rozhlídne, zaznamená panenský obdélníkový zrcátko na Andulině nočním stolku, zakoupený zřejmě v salemský prodejně, protože ani nemá nějakej rantl s umělým rytim jako to moje, a Markuselík ho drapne a přiloží podél osy x, podél celý její délky napravo i nalevo vod osy ypsilon, takže vznikne něco na způsob petřínskýho bludiště, ale jak na to koukám, vidím, že docela jasně vznik taky jistej geometrickej obrazec z lidovýho zadunajskýho folklóru, mně sice údajně neznámej, ovšem ve skutečnosti naopak. A v hlavince mi blikne, protože teda týhle geometrii rozumim líp než profesor Marcus, a pravím rozhořčeně: Ten praselák! Čímž se sice přiznám k někdejší lži, ale Markusek to přehlídne. Tak dem! vyskočim. Pro FBI? otáže se kupec švýcarský. Nikoli, pravím. Pro Ernesta W. F. R. Dalyho. A s nim pak pro vaší céru. A v hlavince mi znova naskočí ten výjev, tenkrát dávno, teda skoro bezmála úplně jenom několik málo let, při mym věku to ani nemůže bejt doopravdy dávno, jak jinoch v dvouřadovym saku s mravnou puntíkovou kravatou se vrh pod tekoucí sprchu. Hroznýš se sice pod sprchu nevrh, ale rovněž to, i když mnohem intelektuálnějc než ten muj jinoch, nevydržel. A houby Lubomíra, uvědomim si, vylepšila význam toho lidovýho symbolu. Žádná Lubomíra! Ta děvka to Aničce naservírovala bez fantazie, úplně realisticky, co ten rhombus znamená, proto z toho byl ten šok! Vylepšení pocházelo zřejmě od tý dívky, co přišla na svět asi uměle. Někdo jí něco řek o srdíčkách z marcipánu, tak z toho dala dohromady přijatelnou verzi pro svou matici, a od ní se pak ta uslušněná, nicméně stále pro Matherovy fundamentalisty pohoršlivá verze roznesla po Markuselákově rodině, a z ní pronikla i k sluchu Hroznýše královskýho. Ubohej jinošek! vzdychnu. Chtěl použít starýho, krásnýho zadunajskýho folklórního způsobu, jak navrhnout dívce zasnoubení, a dívka, poučená bez jeho vědomí potvorou Lubomírou, ale už asi zapomněvší na vlastní zdecentnění Lubomířinýho výkladu, se urazila tak, že možná i omdlela v novym šoku – že každopádně nebrala telefony, i když cinkaly ten jejich signál. Chudák jinoch! pomyslím si, a Markusele se zubí, ovšem rovněž netuší hloubku nemravnosti toho vypočítanýho kosočtverce a myslí jenom, že pouhá narážka na něco souvisejícího s jinou než umělou výrobou dětí stačila, aby Anna podlehla šoku. Kupec švýcarský zamračeně hledí na to, co nakreslil, pak téměř štítivě veme do ruky můj ukoptěnej nástroj světský marnosti a přiloží jej podél osy ypsilon, počínaje od průsečíku obou os nahoru, kresba se zazrcadlí a kupec švýcarský veme, méně štítivě, do ruky zrcátko svý dcery a přiloží podél celý délky osy ix, ještě víc se zamračí, zavrtí hlavou a praví: Rhombus, omezený body plus jedna plus dvě méně jedna méně dvě – vraští obočí, vrtí hlavou, prohlásí: Nechápu. Je toho zde snad použito jako nějakého smluveného znaku? Zřejmě už na Švýcarsko zapomněl.
 
-\* \* \*
+* * *
 
 Nechali jsme kupce švýcarského nad jeho bodama omezenym rhombusem a zajeli jsme opět až do El Cerita za plavcem v zelenym bazénu. Už neplaval. Zdrcen trémou psal právě na elektrickém Smith-Corona portejblu přiznání, revolver jako z Hammetta vedle sebe na stole, kdoví kde ho sebral, a když jsme bez zaklepání vstoupili, chtěl ho použít. Ne na nás. Na sebe. Markusák, jako kdyby ty tvrdý detektivky hltal on, a ne Ernest W., mu ho vyrazil z ruky, takže letěl krásným obloukem rovnou do otevřený láhve s medem vedle v kuchyni na mycím stole, čímž se značně znehodnotil. Poté jsme ještě dojeli pro Andulu, ležela omdlelá v lesní chatě jednoho Dalyho posluchače, taky fandy drsný školy, kterýmu Ernest W. navíc za pomoc při tom únosu slíbil napsat disertačku, kterou by pak sám posuzoval. Markusík celou věc vyřešil tím, že Ernestu W. dal přes hubu a jeho strachem téměř taky omdlelýho komplice donutil, že mu tu chatu pak půjčoval jako abštajg pro avantůry s posluchačkama matematiky, ale to já už v Berkeley nebyla, to by si za mě nedovolil, psal mi o tom pak jeho asistent. Chlupatý se o tom teda vůbec nedozvěděli a Shadovi a Hroznýšovi se to prezentovalo jako kanadskej žertík.
 
 A tak jsme tehdy naložili vzkříšenou Andulu, oba zločince jsme nechali, ať se škvaří v nejistotách, cestou jsme se pro jistotu stavili ještě pro ten levák utopenej v medu a dorazili jsme na 1275 Grizzly Drive akorát včas k rodinný večeři. Shledání dcery s otcem bylo dojemný, dokonce jí vtiskl polibek na čelo. Pozdě večer se pod okno připlížil Hroznýš, zíral, poté se odvážil ke dveřím, ale protože Andula ho tím oknem zmerčila, pošeptala něco kupci švýcarskému, ten rázně vykročil k hlavnímu vchodu, a právě když zazněla hudba sfér, otevřel veřeje, popadl Hroznýše za límec a fundamentalistickým kopnutím ho poslal vzduchem až na vozovku Grizzly Drive. Když se pak druhý den loučil, mručivě prohlásil, že je mi do smrti zavázán vděčností, a mimoto se mi bude revanšovat, což neučinil.
 
-\* \* \*
+* * *
 
 Po pravdě řečeno, tohle mě na Markuseláka mrzí vlastně víc, než že mě nakonec nechal s jednou čínskou studentkou teorie rozmnožování, nějakou Priscillou Fu. Pěkná peleš neřesti, ten 1275 Grizzly Drive! Ten kupeckej kopanec měl tenkrát na Hroznýše účinky stejně blahodárný jako sprcha na mýho jinocha v případě tý Jany Honzlový, akorát že Anička Bradstreetová si pomoct dát nechtěla. Ještě než jsem odjela z Berkeley, pokusil se Hroznýš uprchnout do Austrálie. Avšak kupec švýcarský podruhé v životě nasedl do letadla, oblétl půl světa a přivlekl Hroznýše za límec až z dalekého Brisbane. A svatba byla slavná, úplně fundamentální, jedině bez bílýho věnečku. Vyznavači Cottona Mathera za žádnejch okolností nelžou.
 
