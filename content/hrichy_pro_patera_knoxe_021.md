@@ -2,6 +2,10 @@
 title: ''
 ---
 
+  
+  
+  
+
 Dívka stála u výkladní skříně s nosem přimáčknutým na zářící křišťál a v kratičké sukni, jaké donedávna nosívaly jenom školačky čtvrté obecné. Následkem toho poutaly její pozoruhodné nohy pozornost většiny mužů čekajících v hale binghamtonského letiště na večerní let společnosti MOHAWK z New Yorku do Binghamtonu a dále do Buffala a Chicaga. Ale ona sama patřila nadšeně na falešné zlato předmětů za výkladem souvenir shopu_,_ otočila se a zavolala:
 
 „Look here, Bob! Tohle je ten samej budík, cos nedávno koupil u Woolworthe. Taky hraje Summertime_._ Jenže tams za něj dal sedm padesát a tady stojí jenom šest třicet.“
@@ -10,11 +14,11 @@ Dívka stála u výkladní skříně s nosem přimáčknutým na zářící k�
 
 Nad letištěm byla noc. Dáma přistoupila k panoramatickému oknu čekárny a dívala se ven na město, které zářilo do tmy severní části státu New York. Stříbrovlasý Bob pohlédl nervózně na hodinky a zapálil si cigaretu. Dívka v mini se odpoutala od výkladu a upřela na něho šedivé oči. Neviděl ji, nebo dělal, že ji nevidí. Zachytila tedy zainteresovaný zrak businessmana s doutníkem, povzbudila ho ukázkou svého perleťového chrupu a odešla si sednout. Křesílka u stěny byla tři: červené, modré a bílé; v červeném seděl krásný Bob. Dívka zaváhala nad sousedním modrým, ale pak se rozhodla pro barvu nevinnosti. Pihovatá holka v texaskách, která to všechno nenápadně sledovala zpovzdálí, vložila si do úst růžovou bubble gum a začala opatrně vyfukovat větší a větší bublinu.
 
-\* \* \*
+* * *
 
 Potom se dole ve městě něco stalo, protože tělnatá dáma vykřikla a cestující se nahrnuli k oknu. Dokonce i businessman s doutníkem podlehl sklonu pozorovat cizí neštěstí, omluvně se usmál na dívku s krásnýma nohama a přidal se k davu. Holka v texaskách vyňala z úst téměř půlmetrovou bublinu, přilepila ji na sedadlo modrého křesílka a prodrala se k oknu. U stěny osaměli pouze dívka v mini a hezký muž, který odhodil čerstvě zapálenou cigaretu a seděl ponořen v jakési zcela soukromé myšlenky. Dívka v mini po něm zašilhala skrz růžovou bublinu. Nejevil však zájem, v očích evidentní nepřítomnost ducha. Dívka přehodila nohu přes nohu a zatvářila se uraženě.
 
-\* \* \*
+* * *
 
 Pihovatá holka v texaskách přiběhla zpátky.
 
@@ -26,7 +30,7 @@ _„Oh, shit!“_ pravila otráveně holka v texaskách.
 
 Z letištního ampliónu se ozvalo hlášení a hezoun v červeném křesílku napjal uši. Hlasatel oznámil, že večerní letadlo společnosti MOHAWK do Chicaga pro nepříznivé povětrnostní podmínky na letišti La Guardia dosud neodstartovalo. Muž v červeném křesílku procedil vztekle mezi zuby:
 
-„Oh, shit!“
+_„Oh, shit!“_
 
 Businessman, který si podrážděně strhával růžové cáry z kalhot, se po něm pohoršeně ohlédl.
 
@@ -34,7 +38,7 @@ Od skupiny diváků se odpoutala dívka v mini a oznámila stříbrovlasému m
 
 „Je to fakt, Bobe. Hoří, a mám dojem, že u nás!“
 
-\* \* \*
+* * *
 
 Ukázalo se, že měla pravdu. Letištní amplión o chvilku později ohlásil, že je-li mezi cestujícími také pan Cornhill, udělal by lépe, kdyby se rychle vrátil domů, neboť jeho rodinný dům je zachvácen požárem. Muž s prošedivělými skráněmi se poněkud vzrušil. Ne tolik, jako při zprávě o povětrnostních poměrech v New Yorku. Tělnatá dáma podlehla prudké panice. Businessmany újma na majetku, patrně dobře pojištěném, zaujala tak, že nikdo si vlastně nevšiml poznámky holky v texaskách.
 
@@ -42,11 +46,11 @@ Ukázalo se, že měla pravdu. Letištní amplión o chvilku později ohlásil,
 
 V té chvíli letištní rozhlas ohlásil, že let společnosti MOHAWK z New Yorku do Chicaga se vzhledem k trvajícím nepříznivým povětrnostním podmínkám ruší.
 
-\* \* \*
+* * *
 
 Zástupci pojišťovny se něco nezdálo. Proto ani nepočkal, až plameny uhasnou, a telefonem povolal požárního znalce. Též znalci se něco nezdálo. Telefon vyrušil z dřímoty seržanta O’Mackeyho, který měl ten večer službu na precinct East_._ Za deset minut stál už nad ruinami domu, z něhož zbylo jenom ohořelé přízemí, a meditoval: „Myslíte – kvůli pojistce? Jistě, Bob je ve finanční tísni, to je veřejné tajemství, ale –“ Seržant hleděl na smlouvy, které mu pojišťovák předložil. Dokazovaly dojemnou péči stříbrovlasého otce rodiny. Požární pojistka, životní pojistka pro všechny členy jeho domácnosti, manželku, dceru, babičku. Pojistka proti vloupání a živelním pohromám. Proti úrazu. Jistě, uvažoval O’Mackey. Nebyl by to první majitel domu, který by se peněžní nesnáze pokusil vyřešit tímhle – ale seržant si předtím na precinctu přečetl večerník naplněný zprávami o akcích weathermanů_,_ a napadlo ho něco, nad čím se zamyslil. Zalíbilo se mu to, vzpomněl si na jiný článek v jistých novinách. „Tůdle, chlapci!“ řekl. „Žádná pojistka. To by ovšem teda –“ a telefonicky se spojil s letištěm.
 
-\* \* \*
+* * *
 
 „Já ti to říkal, Bobe. Měls držet hubu,“ vyčítal pak mezi čtyřma očima hezounovi s prokvetlými spánky. „Když oni napíšou, že někdo by měl radši dělat poslední vůli, ten dotyčnej by je měl pro všechny případy poslechnout. Měls jedině štěstí, žes nebyl doma.“
 
@@ -66,7 +70,7 @@ Zástupci pojišťovny se něco nezdálo. Proto ani nepočkal, až plameny uhasn
 
 „Kdo říká podpálili?“ zasmál se O’Mackey. „Někdo ti do baráčku, Bobe, strčil pumu!“
 
-\* \* \*
+* * *
 
 Pracovali rychle a za ranních červánků už jednoho měli. Nebylo sice důkazů, že by to byl příslušník jejich bratrstva, ale barevný byl a sebrali ho v baru Ráj, s módní kudrnatou parukou na hlavě. Nebyl tam jako host. Myl nádobí, a když pro něho přišli, dělil se právě s pauzírující zpěvačkou o zbytek láhve šampaňského, kterou dívka, sotva načatou, sebrala na stole už příliš zmoženého hosta. Zpěvačka barevná nebyla, ale sotva poldíci zjistili její adresu, vzali ji s sebou, ani jí nedovolili převlíct se z flitru do dětské sukničky, v níž se toho večera, poněkud pozdě, dostavila do práce.
 
@@ -98,7 +102,7 @@ Seržant řekl:
 
 „Co ti ji dodali ty tvý duchovní bratři. Nemyslím baptisty. Tu, cos strčil Cornhillovi do baráku.“
 
-\* \* \*
+* * *
 
 Někdo zaklepal, do kuchyně vstoupil požární expert a seržant poslal černocha pryč. Dlouho se radil s expertem, zasmušil se, ale nakonec opět dostal dobrou náladu.
 
@@ -118,7 +122,7 @@ Dívce – jenom na kratičký okamžik – naskočila na čele rozzlobená vr
 
 „Jak to myslíte?“ pravil seržant. Věty, jimž nerozuměl, v něm vždycky probouzely podezření vůči tomu, kdo je pronášel. Zachmuřil se
 
-\* \* \*
+* * *
 
 Když mu naznačila – trvalo dost dlouho, než pochopil – jak to myslí, pokusil se naznačit jí, jak to myslí on. Dlouho nemohla pochopit. Potom se ctnostně ohradila:
 
@@ -168,7 +172,7 @@ O’Mackey odvrátil oči od romantické scenérie a řekl:
 
 Ponechal pak zpěvačku, aby přemýšlela nad touto záhadou svého zamčeného pokoje, a odešel vedle vyslýchat paní Sharon Cornhillovou. Jeho zástupce zaujal mlčenlivou pozici mezi zpěvačkou a baptistou a dbal na to, aby mezi těmi dvěma neproběhly žádné signály. Ale oba dva, černý baptista podezřelý z bratrství i bílá katolička podezřelá z agentství, seděli uraženě každý ve svém koutě.
 
-\* \* \*
+* * *
 
 Paní Sharon se třásly ruce, ale snažila se mluvit klidně.
 
@@ -192,7 +196,7 @@ Dívka v texaskách se opět ušklíbla.
 
 Dívka se potřetí, velice cynicky, ušklíbla.
 
-\* \* \*
+* * *
 
 „Heledte, na mámu nedejte,“ řekla potom seržantovi. „Máma je v těchhle věcech slepá jak novorozený kotě. Ale zeptejte _se jeho_ na tu obchodní cestu do Buffala, co na ni musel dnes večer z ničehožnic tak najednou _letět._ A když už musel letět, proč neletěl odpoledne s bábi? Její letadlo mělo přeci mezipřistání v Buffalu. Proč? Já vám povím proč. Protože bábi není jako máma. Ta ho má prokouknutýho. Tý by nevysvětlil, že potřebuje do Buffala letět, když jsme na tom s prachama tak bledě a do Buffala je to odsud autem tři hodinky. To jenom máma mu tak bezmezné věří. Bábi ne. Proto si vzpomněl, že musí honem letět za obchodem, až když už bábi byla za horama.“
 
@@ -220,7 +224,7 @@ Sheila odlepila duhovou bublinu z kolena, přifoukla ji a podala O’Mackeymu.
 
 „A máte to!“ pravila Sheila. „Našla jsem tátovou cigártašku v její posteli.“
 
-\* \* \*
+* * *
 
 Po tak masivním corpu delicti skočil seržant jak vyhladovělý tygr. Třebaže s atentátem neměl asi nic společného a vzrušený detektiv nepostřehl, že v drzých očích vedle pihovatého nosu se leskne něco víc než obvyklá vláha. „Máma byla ten tejden v New Yorku,“ řekla Sheila, „a já přišla domů dřív, a jak vodemknu, slyším nahoře nějaký kroky. Jako vyplašený, víte? A za barevným sklem na verandě se mih mužskej stín. A pak zas vrzaly schody vzadu, co se jde na zahradu. Já šla do kuchyně, nalila jsem si mlíko, a z druhejch dveří, ze zahrady – jasný? – přišel táta jenom v košili a začal vykládat něco, že se mu udělalo v krámě zle, tak si šel domů lehnout.“ Dívčiny pihy se docela ztratily na tmavnoucím pozadí. „Tak proč neležel, když si šel lehnout? Proč coural po schodech na zahradu? A proč lez do kuchyně, nevíte?“
 
@@ -242,7 +246,7 @@ Dívka se odmlčela a setřela si slzy hřbetem dlaně.
 
 Pak už se nedalo nic dělat a rozbrečela se. Ani to velice nemravné slovo jí nepomohlo.
 
-\* \* \*
+* * *
 
 Bylo už ráno, vycházelo slunce a stříbrné skráně hezkého Boba Cornhilla jako by jiskřily. Seržant si uvědomil, že Cornhill je vlastně podobný Clarku Gablovi, a pomyslil si, že cigártaška ve zpěvaččině ložnici je sice neomluvitelná, ale zato – z jejího hlediska – pochopitelná věc.
 
@@ -278,7 +282,7 @@ Seržant vstal jako hypnotizován. Mezi vším se mu objevily nádherné spojnic
 
 Boba Cornhilla odsunul do zbytku vedlejší místnosti.
 
-\* \* \*
+* * *
 
 Avšak baptista se vehementně bránil:
 
@@ -308,7 +312,7 @@ Chvíli trvalo, než muž podezřelý z prznění černé rasy a z pumového 
 
 „Ale dyť já mu tu cigártašku hned druhej den vrátil! On mi dal ty prachy, co mi dlužil, tak jsem mu ji vrátil!“ hleděl bílýma očima na seržanta a logicky dodal: „Jak jsem ji moh zapomenout u slečny Adamový, když jsem mu ji vrátil?“
 
-\* \* \*
+* * *
 
 Jenomže Bob Cornhill rozhodně popřel, že by kdy Benu Turpinovi zaplatil a dostal od něho zástavu zpátky. Stála tu nyní proti sobě dvě pouhá tvrzení, černého a bílého muže, a protože seržant O’Mackey, přes svoje policajtství, nebyl v podstatě rasista, zapochyboval nakonec o pravdomluvnosti poněkud chuligánské Cornhillovy dcerušky. Vzpomněl si nejasně na něco, čemu v kriminalistickém kursu říkali oidipovský komplex, a oslovil ji otcovským tónem:
 
@@ -324,7 +328,7 @@ Sheila se zarazila, v očích nedůvěru, potom postupně úžas. V hlavě, oz
 
 Jenže detektiva pohled na cigártašku zkrušil. Sheila zřejmě mluvila pravdu a stála proti sobě tedy opět jen dvě tvrzení: černého a bílého muže. Pak si seržant uvědomil důležitost přesného času.
 
-\* \* \*
+* * *
 
 Bob Cornhill vraštil čelo, ale nemohl si vzpomenout. Byl to čtvrtek? Nebo snad středa?
 
@@ -340,11 +344,11 @@ Ben Turpin se zamračil. Pohlédl na seržanta.
 
 „Pane O’Mackey,“ řekl skoro jedovatě, „nemoh byste si tedy zjistit, kdy ten váš důvěryhodnej svědek tu cigártašku v posteli slečny Adamový vlastně našel?“
 
-\* \* \*
+* * *
 
 Což se ovšem už předtím ukázalo být mimo schopnosti slečny Sheily, jíž se důležité události života pojily s neurčitou mlhou minulosti. Ani obě Cornhillovy zaměstnankyně, které prodávaly boty v bankrotujícím krámě na Main Street_,_ si nedokázaly vzpomenout, který den v týdnu před čtyřmi týdny nebyl boss v obchodě. Spíš se shodovaly, že boss nebývá v krámě častěji, ten i jiné dny v jiných týdnech. A protože Bob Cornhill začal velmi naléhat na nezbytnost odletu do Chicaga ve dvě třicet v té nutné obchodní záležitosti, kterou včera pro špatné počasí nemohl vyřídit, a detektiv skutečně neměl důvody ho držet, rozhodl se, že si prostě postaru podá zpěvačku.
 
-\* \* \*
+* * *
 
 „Tak s pravdou ven, slečno,“ oslovil ji. „Ben Turpin se přiznal.“
 
@@ -376,7 +380,7 @@ Sám nečekal, jak okamžitý bude mít corpus delicti účinek. Zpěvačka vyt�
 
 Vtom zazvonil telefon. Nějak se stalo, že požár ušetřil telefonní vedení.
 
-\* \* \*
+* * *
 
 O’Mackey energicky zvedl sluchátko.
 
@@ -424,7 +428,7 @@ Je nespolehlivý.
 
 * * *
 
-Detektiv se otočil a šel si sednout. Dlouho mlčel, přemýšlel. Viděl, jak dívčina kolena, ani trochu nezakrytá sukničkou, se rozklepala.
+  
 
 „Tak už se přiznejte,“ pravil potom nevídaně slušně. „Samozřejmě že to byl Bob. Tu voňavku máte od něho. On má rád na ženách Santálové dřevo.“
 
@@ -456,7 +460,7 @@ Blondýnka ještě jednou sklopila a po chvilce opět zdvihla nádherné řasy,
 
 A věděl to, čemu plavovláska ve své mateřštině říkala stará bela.
 
-\* \* \*
+* * *
 
 Za žhářství obzvláště nebezpečného typu vyfasoval Bob Cornhill patnáct let. Než ho převezli do státní trestnice, navštívila ho jeho matka, jeho manželka, na naléhání manželky i jeho dcera, a nakonec i neteř, která po dobu svého angažmá v nočním klubu Ráj bydlela v jeho domě.
 
