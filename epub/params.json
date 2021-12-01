@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Hříchy pro pátera Knoxe",
@@ -6,7 +7,9 @@
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-29T14:52:08.064Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "e-booknadpis",
@@ -46,7 +49,7 @@
             "filename": "hrichy_pro_patera_knoxe_002.md",
             "xhtml": "hrichy_pro_patera_knoxe_002.html",
             "id": 1,
-            "role": "break",
+            "role": "cover",
             "listType": "plain",
             "inToc": false,
             "children": []
@@ -810,3 +813,4 @@
     "generatedAt": 1638198852328
   }
 }
+
